@@ -5,7 +5,7 @@ This repository is the public issue tracker for [INHA VST plugins](https://inha.
 The plugin sources is proprietary and is not contained in this
 repository.
 
-Please use the Issues tab to report bugs, request features, or suggest
+Please use the [Issues tab](https://github.com/o-inha/INHA-VST-Plugins/issues) to report bugs, request features, or suggest
 improvements.
 
 If reporting a bug, please include:
