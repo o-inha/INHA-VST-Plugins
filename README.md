@@ -1,6 +1,6 @@
 # INHA VST3 Plugins Issue Tracker
 
-This repository is the public issue tracker for INHA VST plugins.
+This repository is the public issue tracker for INHA VST plugins:
 
 - https://inha.jp
 - https://www.kvraudio.com/developer/inha
