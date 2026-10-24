@@ -15,5 +15,5 @@ If reporting a bug, please include:
 - Plugin name and version
 - DAW name and version
 - Operating system name and version
-- Description of the bug (what _should_ happen vs. what _actually_ happens)
+- Description of the bug (e.g. what _should_ happen vs. what _actually_ happens)
 - Step-by-step instructions what to do with the plugin to hear or see the bug in action
