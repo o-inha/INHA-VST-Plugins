@@ -1,4 +1,4 @@
-# Release notes
+# 2026 Release notes
 
 ## 2026-11-06
 
