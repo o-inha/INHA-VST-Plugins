@@ -37,7 +37,7 @@
 
 ### INHA Ryoji v1.3.4
 - Audification performance.
-  > Data audification is now much faster. Selecting columns for left and right channel now works near real-time (no data re-analysis).
+  > Data audification is now much faster. Selecting columns for left and right channel now works in near real-time (no re-analyzing data).
 - SCRUB mode
   > freeze audio segment under the playhead for WSOLA-style control of speed and direction without affecting pitch or sounding very grainy.
 - ADSR are now range sliders.
