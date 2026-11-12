@@ -5,7 +5,7 @@
 ### INHA Tear v1.4.10
 - New cleaner layout / UI.
 - FREEZE performance and accuracy improved.
-- Improvements to vry-long freezes.
+- Improvements to very-long freezes.
   > Very-long freezes now use a longer audio segment as initial input, and will slowly update the stretched output audio indefinitely with new audio from the dry signal. This will result in a bit evolving and more natural sounding very-long stretch events.
 - Sidechain support to trigger stretch events by transients from another track.
 - OFFSET slider: slightly delays the start of all stretch events.
