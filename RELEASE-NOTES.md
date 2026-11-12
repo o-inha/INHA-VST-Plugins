@@ -1,6 +1,6 @@
-# 2026 Release notes
+# RELEASE NOTES
 
-## 2026-11-06
+## 2026-11-06 / Latest
 
 ### INHA Tear v1.4.10
 - New cleaner layout / UI.
@@ -21,7 +21,12 @@
 ### INHA Ryoji v1.4.1
 - Audification improvements (phase rotation, crazy-peak reduction, etc.)
 
-## 2026-10-20
+---
+
+### Earlier:
+
+<details>
+<summary>2026-10-20</summary>
 
 ### ALL INHA PLUGINS
 - Gear icon at bottom left to access plugin settings.
@@ -43,8 +48,10 @@
 - Small visual/UI bugfixes.
 - Change DRAG EXPORTS locations in plugin settings.
   > Global and project-specific save location. All DAWs don't expose a *project location*; in these DAWs the second location will be plugin instance-specific.
+</details>
 
-## 2026-09-15
+<details>
+<summary>2026-09-15</summary>
 
 ### INHA Ryoji v1.0.16
 - Support for more audio formats:
@@ -63,8 +70,10 @@
   - WMV
   - 3GP
 - Bugfix: Drag & drop didn't work correctly when plugin was in FL Studio's Channel Rack. Issue is fixed.
+</details>
 
-## 2026-09-07
+<details>
+<summary>2026-09-07</summary>
 
 ### INHA Tear v1.2.5
 - New trigger mode: ❄️ FREEZE
@@ -82,3 +91,4 @@
 ### INHA Dropout v1.0.3
 - SYNC and SYNC / T (toggle triplet divisions) added.
   > synchronizes plugin to DAW tempo.
+</details>
