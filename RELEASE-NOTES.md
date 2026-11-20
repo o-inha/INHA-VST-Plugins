@@ -23,7 +23,7 @@
 
 ---
 
-### Earlier:
+### 2026 / Previous:
 
 <details>
 <summary>2026-10-20</summary>
