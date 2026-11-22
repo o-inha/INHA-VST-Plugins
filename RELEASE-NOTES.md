@@ -1,6 +1,11 @@
 # RELEASE NOTES
 
-## 2026-11-06 / Latest
+## 2026-11-20
+
+### INHA Stutter v2.0.8
+- Further accuracy improvements
+
+## 2026-11-06
 
 ### INHA Tear v1.4.10
 - New cleaner layout / UI.
