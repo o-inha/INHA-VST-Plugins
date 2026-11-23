@@ -12,9 +12,9 @@ Please use the [Issues tab](https://github.com/o-inha/INHA-VST-Plugins/issues) t
 improvements.
 
 If reporting a bug/problem, please include:
-- Plugin name and version
-- DAW name and version
-- Operating system name and version
-- Description of the problem (e.g. what is _expected to_ happen vs. what _actually_ happens)
-- Step-by-step instructions what to do with the plugin to hear or see the problem in action
-- Audio clips or screenshots demonstrating the problem are a bonus.
+- Plugin name and version.
+- DAW name and version.
+- Operating system name and version.
+- Description of the problem (e.g. what is _expected to_ happen vs. what _actually_ happens).
+- Step-by-step instructions what to do with the plugin to hear or see the problem in action.
+- Audio clips and/or screenshots demonstrating the problem, if available and relevant to the problem.
