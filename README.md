@@ -17,3 +17,4 @@ If reporting a bug/problem, please include:
 - Operating system name and version
 - Description of the problem (e.g. what is _expected to_ happen vs. what _actually_ happens)
 - Step-by-step instructions what to do with the plugin to hear or see the problem in action
+- Audio clips or screenshots demonstrating the problem are a bonus.
