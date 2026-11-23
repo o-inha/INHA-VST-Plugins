@@ -11,9 +11,9 @@ repository.
 Please use the [Issues tab](https://github.com/o-inha/INHA-VST-Plugins/issues) to report bugs, request features, or suggest
 improvements.
 
-If reporting a bug, please include:
+If reporting a bug/problem, please include:
 - Plugin name and version
 - DAW name and version
 - Operating system name and version
-- Description of the bug (e.g. what _should_ happen vs. what _actually_ happens)
-- Step-by-step instructions what to do with the plugin to hear or see the bug in action
+- Description of the problem (e.g. what is _expected to_ happen vs. what _actually_ happens)
+- Step-by-step instructions what to do with the plugin to hear or see the problem in action
